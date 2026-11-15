@@ -1,16 +1,20 @@
-# FindBack Mobile App
+# FindBack
 
-Mobile client for the **FindBack — Lost & Found** platform.
+Web client for the **FindBack — Lost & Found** platform.
+
+**Stack:** React 18, TypeScript, Vite, React Router, Lucide icons.
 
 ## Quick Start
 
-1. Ensure the backend server is running and update the API URL in your `.env` file.
+1. Ensure the backend server is running on `http://localhost:5000`.
 2. Run:
 
 ```bash
 npm install
-npx expo start
+npm run dev
 ```
+
+Open `http://localhost:5173` in your browser.
 
 ## Demo Accounts
 
